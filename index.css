@@ -1,0 +1,121 @@
+.full{
+    background-image: linear-gradient(to bottom right,white,rgb(173, 89, 103));
+    
+}
+.main{
+    
+    width: 900px;
+    height: 370px;
+    
+    display: flex;
+    
+    
+}
+
+.AA{
+    margin:10px;
+    line-height: 40px;
+    width: 400px;
+    border: 1px solid transparent;
+    padding: 20px;
+    
+    
+}
+h1{
+    text-align: center;
+}
+
+input{
+    width: 350px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+button{
+    width: 370px;
+    background-color: rgb(27, 27, 134);
+    padding: 6px;
+    color: white;
+
+}
+
+.b{
+    margin-left: 200px;
+    font-size: 70px;
+    margin-top: 0px;
+}
+
+#x{
+    color: orangered;
+    background-color: aliceblue;
+}
+h2{
+    font-size: xx-large;
+    margin-bottom: 0px;
+    margin-left: 170px;
+    
+}
+#y{
+    color:blue;
+    background-color: aliceblue;
+    
+    
+}
+#z{
+    color: yellow;
+    margin-left: 20px;
+    background-color: aliceblue;
+}
+.BB{
+    text-align: center;
+    
+    width: 500px;
+    padding-top: 150px;
+    margin-left: 90px;
+    
+    
+}
+
+.m{
+    background-color: darkseagreen;
+    padding: 13px;
+}
+
+.n{
+    background-color: bisque;
+    margin-top: 20px;
+    padding: 13px;
+}
+
+.o{
+    background-color: cornflowerblue;
+    margin-top: 20px;
+    padding: 13px;
+}
+.p{
+    background-color:indianred ;
+    margin-top: 20px;
+    padding: 13px;
+
+}
+
+#tick{
+    color: rgb(15, 76, 15); 
+}
+#alert{
+    color: olive;
+}
+#info{
+    color: rgb(59, 50, 118);
+}
+#cross{
+    color: rgb(99, 23, 23);
+}
+
+    
+
+
+
+
+    
